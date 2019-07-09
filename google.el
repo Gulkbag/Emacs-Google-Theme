@@ -1,16 +1,14 @@
 
 
 
-;;; Google-theme.el --- Emacs theme with a dark background.
+;;; Google-theme.el --- Emacs Theme with Colors derived from the Google logo
 
-;; Copyright (C) 2014 , Ahmed Nasser
+;; Copyright (C) 2019 , Ahmed Nasser
 
 ;; Author: Ahmed Nasser
 ;; 
-;; Version: 0.1
+;; Version: 1.0
 ;; Package-Requires: ((emacs "24"))
-;; Created with emacs-theme-generator, https://github.com/mswift42/theme-creator.
-
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
