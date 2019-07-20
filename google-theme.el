@@ -1,7 +1,4 @@
-
-
-
-;;; Google-theme.el --- Emacs Theme with Colors derived from the Google logo
+;;; google-theme.el --- Emacs Theme with Colors derived from the Google logo
 
 ;; Copyright (C) 2019 , Ahmed Nasser
 
@@ -254,4 +251,3 @@
 ;; End:
 
 ;;; Google-theme.el ends here
-
