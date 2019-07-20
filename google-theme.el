@@ -3,7 +3,6 @@
 ;; Copyright (C) 2019 , Ahmed Nasser
 
 ;; Author: Ahmed Nasser
-;; 
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "24"))
 
@@ -23,6 +22,7 @@
 ;; This file is not part of Emacs.
 
 ;;; Commentary:
+;;; Google theme
 
 ;;; Code:
 
@@ -250,4 +250,4 @@
 ;; no-byte-compile: t
 ;; End:
 
-;;; Google-theme.el ends here
+;;; google-theme.el ends here
